@@ -3,8 +3,6 @@
 <h3 align="center">Innovative Mobile App Developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149065783.jpg?t=st=1719205351~exp=1719208951~hmac=6b5a2ed943f1b3d9b4c7deaeaa5a55e54c19732ff90627f165f5fc1e1d0cd3e6&w=740">
 
-- 🔭 I’m currently working on **Quick Quota Monitor Application**
-
 - 🌱 I’m currently learning **React Native , Django**
 
 - 💬 Ask me about **Android**
