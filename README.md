@@ -1,7 +1,7 @@
 
 ![MasterHead](https://cdn.vectorstock.com/i/500p/07/35/application-smartphone-with-business-graph-vector-29570735.avif)
 <h1 align="center">Hi 👋, I'm Ishara Aththanagoda</h1>
-<h3 align="center">Innovative AI/ML Developer from Sri Lanka</h3>
+<h3 align="center"><b>An AI/ML innovator and full-stack creator crafting smart solutions from Sri Lanka.</b></h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149065783.jpg?t=st=1719205351~exp=1719208951~hmac=6b5a2ed943f1b3d9b4c7deaeaa5a55e54c19732ff90627f165f5fc1e1d0cd3e6&w=740">
 
 - 📫 How to reach me **akiuaththanagoda@std.appsc.sab.ac.lk**
